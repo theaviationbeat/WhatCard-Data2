@@ -23,7 +23,7 @@
         "otherPercent3String": "Streel",
         "pointType": "Chase Points",
         "rating": 3.0,
-        "mainImage": "AmexPlatinumCard",
+        "mainImage": "ChaseSapphireReserve",
         "mainColor": "silver",
         "accentColor": "black",
         "airportLounge": "Chase Lounge"
@@ -48,7 +48,7 @@
         "otherPercent3String": "Streel",
         "pointType": "Chase Points",
         "rating": 3.0,
-        "mainImage": "AmexGoldCard",
+        "mainImage": "ChaseSapphirePreferred",
         "mainColor": "gold",
         "accentColor": "black",
         "airportLounge": ""

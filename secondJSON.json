@@ -100,7 +100,32 @@
 				"mainColor": "gold",
 				"accentColor": "black",
 				"airportLounge": ""
-			}
+			},
+			  {
+        "id": "0000",
+        "company": "Blank",
+        "name": "Blank",
+        "annualFee": 0,
+        "groceryPercent": 1.0,
+        "travelPercent": 3.0,
+        "gasPercent": 4.0,
+        "restaurantPercent": 5.0,
+        "streamingPercent": 6.0,
+        "transitPercent": 7.0,
+        "cashBackPercent": 8.0,
+        "otherPercent1": 9.0,
+        "otherPercent1String": "Guns",
+        "otherPercent2": 10.0,
+        "otherPercent2String": "Germs",
+        "otherPercent3": 11.0,
+        "otherPercent3String": "Streel",
+        "pointType": "Membership Rewards",
+        "rating": 3.0,
+        "mainImage": "Blank",
+        "mainColor": "gold",
+        "accentColor": "black",
+        "airportLounge": ""
+    }
 		]
 	},
 	{
@@ -130,6 +155,32 @@
 			"mainColor": "silver",
 			"accentColor": "black",
 			"airportLounge": "Chase Lounge"
-		}]
+		},
+			  {
+        "id": "0000",
+        "company": "Blank",
+        "name": "Blank",
+        "annualFee": 0,
+        "groceryPercent": 1.0,
+        "travelPercent": 3.0,
+        "gasPercent": 4.0,
+        "restaurantPercent": 5.0,
+        "streamingPercent": 6.0,
+        "transitPercent": 7.0,
+        "cashBackPercent": 8.0,
+        "otherPercent1": 9.0,
+        "otherPercent1String": "Guns",
+        "otherPercent2": 10.0,
+        "otherPercent2String": "Germs",
+        "otherPercent3": 11.0,
+        "otherPercent3String": "Streel",
+        "pointType": "Membership Rewards",
+        "rating": 3.0,
+        "mainImage": "Blank",
+        "mainColor": "gold",
+        "accentColor": "black",
+        "airportLounge": ""
+    }
+			 ]
 	}
 ]

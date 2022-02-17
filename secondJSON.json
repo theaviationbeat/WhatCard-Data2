@@ -184,12 +184,12 @@
 		]
 	},
 	{
-		"id": 1,
+		"id": 0,
 		"company": "American Express",
 		"cards": [{
 				"id": "0001",
 				"company": "American Express",
-				"name": "The Platinum Card from American Express",
+				"name": "Platinum Card from American Express",
 				"annualFee": 695,
 				"groceryPercent": 2.0,
 				"travelPercent": 3.0,

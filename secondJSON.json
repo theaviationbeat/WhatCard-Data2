@@ -1,6 +1,7 @@
 [{
 		"id": 1,
 		"companyName": "Chase",
+	"companyLogo": "Chase",
 		"cards": [{
 				"id": "1001",
 				"companyName": "Chase",
@@ -131,6 +132,7 @@
 	{
 		"id": 2,
 		"companyName": "Capital One",
+		"companyLogo": "Capital One",
 		"cards": [{
 				"id": "2001",
 				"companyName": "Capital One",
@@ -186,6 +188,7 @@
 	{
 		"id": 0,
 		"companyName": "American Express",
+		"companyLogo": "American Express",
 		"cards": [{
 				"id": "0001",
 				"companyName": "American Express",
